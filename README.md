@@ -29,7 +29,7 @@ Al inicio del programa se le pide al usuario registrar su nombre y luego se le d
 ## Algoritmo
 El algoritmo sería primero pedirle al usuario su nombre, para guardar sus ahorros como suyos, luego se le pide al usuario escoger entre una de las varias opciones, y dependiendo de eso el programa sigue.
 
-  1.El usuario escoge entre opciones del menu
+  1. El usuario escoge entre opciones del menu
      - Si el usuario escoge registrar un ahorro: 
        - Se le pide al usuario que escoga si registra un ahorro diario,mensual o anual
        - Se guarda el ahorro en una variable que se usara para poder actualizar el ahorro total
@@ -39,7 +39,7 @@ El algoritmo sería primero pedirle al usuario su nombre, para guardar sus ahorr
      - Si el usuario escoge ver sus ahorros a futuro:
        - Se le pide al usuario si quiere ver a futuro en días, meses o años
        - Se hacen los calculos y se muestra cuanto va a ganar en el futuro el usuario
-  2.El usuario decide salir:Se termina el programa
+  2. El usuario decide salir:Se termina el programa
 
 
 ## Resumen
