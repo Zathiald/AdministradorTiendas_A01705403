@@ -19,19 +19,19 @@ Todas estas clases iran interconectadas con operaciones y ciclos que nos permiti
 
 ## Algoritmo
 
-1. Entrada
-Input del usuario en base a que quiere hacer en el programa, esto puede ser:
+1. Entrada:
+   Input del usuario en base a que quiere hacer en el programa, esto puede ser:
       - Ingresar ventas
       - Ingresar compras
       - Revisar Inventario
       - Generar reporte
      
-  2. Procedimiento
-     En base a lo que escoge el usuario se iran aumentando y disminuyendo las variables de dinero total y de inventario 
+  2. Procedimiento:
+    En base a lo que escoge el usuario se iran aumentando y disminuyendo las variables de dinero total y de inventario 
      para poder dar un analísis total en el reportes que pida el usuario
  
-  3. Salida
-      Se le dara el reporte deseado al usuario en base a que pidió
+  3. Salida:
+     Se le dara el reporte deseado al usuario en base a que pidió
 
 
 ## Resumen
