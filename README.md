@@ -36,4 +36,4 @@ Todas estas clases iran interconectadas con operaciones y ciclos que nos permiti
 
 ## Resumen
 
-Este es un proyecto que lleva muchos ciclos y matemáticas interconectadas que deben funcionar en armonía para poder así entonces lograr que los reportes de la tienda sean los más veridicos y exactos posibles, para que esta pueda planificar bien lo que hace para luego que analizen sus reportes y de ahi irse expandiendo.
+Este es un proyecto que lleva muchos ciclos y matemáticas interconectadas que deben funcionar en armonía para poder así entonces lograr que los reportes de la tienda sean los más veridicos y exactos posibles, para que esta pueda planificar bien lo que hace para luego que analizen sus reportes y de ahi irse expandiendo, logrando tener un negocio funcional y efectivo.
