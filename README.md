@@ -1,47 +1,39 @@
-# PlaneadorGastos_A01705403
+# AdministradoTiendas_A01705403
 Proyecto TC1033 de Pensamiento Computacional Orientado a Objetos de Samir Baidon Pardo A01705403
-# Planeador de Gastos
+# Administrador de Tiendas
 
 ## Contexto
 
-En nuestro día a día debemos hacer gastos importantes para nosotros mismos o por el mero hecho de querer conseguir algo, lo que este código planea hacer es poder ayudar al usuario a calcular sus planes a futuro, como cuanto dinero tendra, que gastos podra y debe hacer, todo con el fin de facilitarles la vida y ayudarlos a tener una vida más plena.
+En el mundo hay miles de millones de negocios los cuáles tienen que asegurarse de mantener un orden para sus ventas,gastos,inventario,etc...Cosa que puede llevar un arduo tiempo y esfuerzo para tener una tienda organizada y funcional, este programa planea ayudar a todos esos negocios a mantenerse al corriente sobre su estado economico, permitiendoles así poder expandir y mejorar su negocio.
 
 ## Explicación código
 
-En el programa se usan varias variables para poder determinar:
-- Pagos
-- Gastos
-- Ahorros
-- Tiempo
-- Nombre Usuario
+En el programa se usan varias clases para poder determinar:
+- Ventas
+- Compra de recursos
+- Pagos principales
+- Inventario
+- Reportes
 
-Todas estas variables iran interconectadas con operaciones y ciclos que nos permitiran ver como esque los gastos y ahorros dle usuario van cambiando acorde al tiempo que el usuario quiere ver.
-
-Al inicio del programa se le pide al usuario registrar su nombre y luego se le dara un menú, donde podra hacer de lo siguiente:
-- Registrar ahorro(diario,mensual,anual)
-- Registrar pago(diario,mensual,anual)
-- Registrar ahorro extra
-- Registrar Gasto
-- Revisar ahorro total
-- Analizar ahorro a futuro
-- Guardar registro
+Todas estas clases iran interconectadas con operaciones y ciclos que nos permitiran ver como esque la tienda va manejando sus ventas,gastos,inventarios y se nos permitira generar diferentes reportes en base a los parametros que se quieran analizar.
 
 ## Algoritmo
-El algoritmo sería primero pedirle al usuario su nombre, para guardar sus ahorros como suyos, luego se le pide al usuario escoger entre una de las varias opciones, y dependiendo de eso el programa sigue.
 
-  1. El usuario escoge entre opciones del menu
-     - Si el usuario escoge registrar un ahorro: 
-       - Se le pide al usuario que escoga si registra un ahorro diario,mensual o anual
-       - Se guarda el ahorro en una variable que se usara para poder actualizar el ahorro total
-     - Si el usuario escoge registrar un pago:
-       - Se le pide al usuario que escoga si registra un pago diario,mensual o anual
-       - Se guarda el pago en una variable que se usara para poder actualizar el ahorro total
-     - Si el usuario escoge ver sus ahorros a futuro:
-       - Se le pide al usuario si quiere ver a futuro en días, meses o años
-       - Se hacen los calculos y se muestra cuanto va a ganar en el futuro el usuario
-  2. El usuario decide salir:Se termina el programa
+  1. Entrada
+     Input del usuario en base a que quiere hacer en el programa, esto puede ser:
+     -Ingresar ventas
+     -Ingresar compras
+     -Revisar Inventario
+     -Generar reporte
+     
+  2. Procedimiento
+     En base a lo que escoge el usuario se iran aumentando y disminuyendo las variables de dinero total y de inventario 
+     para poder dar un analísis total en el reportes que pida el usuario
+ 
+  3. Salida
+      Se le dara el reporte deseado al usuario en base a que pidió
 
 
 ## Resumen
 
-Este es un proyecto que lleva muchos ciclos y matemáticas interconectadas que deben funcionar en armonía para poder así entonces lograr que el usuario pueda ver sus ahorros, planificarlos y tener una vida más simple, resolviendo un problema de desde hace mucho tiempo.
+Este es un proyecto que lleva muchos ciclos y matemáticas interconectadas que deben funcionar en armonía para poder así entonces lograr que los reportes de la tienda sean los más veridicos y exactos posibles, para que esta pueda planificar bien lo que hace para luego que analizen sus reportes y de ahi irse expandiendo.
