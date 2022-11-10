@@ -1,12 +1,12 @@
-# AdministradorTiendas_A01705403
-Proyecto TC1033 de Pensamiento Computacional Orientado a Objetos de Samir Baidon Pardo A01705403
+# Administrador_Tiendas
+
 # Administrador de Tiendas
 
 ## Contexto
 
 En el mundo hay miles de millones de negocios los cuáles tienen que asegurarse de mantener un orden para sus ventas,gastos,inventario,etc...Cosa que puede llevar un arduo tiempo y esfuerzo para tener una tienda organizada y funcional.
 
-Este programa planea ayudar a todos esos negocios a mantenerse al corriente sobre su estado economico, permitiendoles así poder expandir y mejorar su negocio, en este caso será para analizar el inventario de un supermercado.
+Este programa planea ayudar a todos esos negocios a mantenerse al corriente sobre su estado economico, permitiendoles así poder expandir y mejorar su negocio, en este caso será para analizar el inventario de un supermercado.Este proyecto no será capaz de guardar todos los datos una vez que el codigo haya terminado, es para que de una sola se vaya creando todos los reportes y variables necesaria, aunque este será capaz de ver a futuro los gastos y ventas, no se podrá ver a futuro la compra de objetos, esta data dependera del usuario. 
 
 ## Explicación código
 
